@@ -6,7 +6,7 @@
 <div class="flex justify-between py-10 px-20 text-white text-lg">
   <div class="font-extrabold text-white text-2xl cursor-pointer">
     <a href="/" class="flex gap-1.5 items-center">
-      <span class="mr-2"><Hamsa/></span><span>Zac</span><span>Crumpton</span>
+      <span class="mr-2"><Hamsa/></span><span>zjcrumpton</span>
     </a>
   </div>
   <div class="flex gap-10">
